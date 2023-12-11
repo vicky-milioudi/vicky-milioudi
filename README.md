@@ -1,6 +1,6 @@
 <!-- About Me -->
-<h1 style="text-align: center">👋 Hi there, I'm `Vicky Milioudi`</h1>
-### 👩🏽‍💻 About Me
+# 👋 Hi there, I'm `Vicky Milioudi`
+## 👩🏽‍💻 About Me
 * 🎓 Msc Electrical & Computer Engineering student at DUTH
 * 🔎 Main interests in Web Development
 * 🌱 I’m currently learning Databases
@@ -8,8 +8,7 @@
 * 🌍 Enthusiastic for science
 * 🎲 Enjoying  board games
 * 🎥 Love documentaries, movies & series  
-
-<h3 align="left">⚙️ Languages and Tools:</h3>
+<h2 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
