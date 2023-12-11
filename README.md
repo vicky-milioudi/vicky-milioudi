@@ -1,5 +1,5 @@
 <!-- About Me -->
-<h1 style="text-align: center">👋 Hi there, I'm `Vicky Milioudi` 
+<h1 style="text-align: center">👋 Hi there, I'm `Vicky Milioudi`</h1>
 ### 👩🏽‍💻 About Me
 * 🎓 Msc Electrical & Computer Engineering student at DUTH
 * 🔎 Main interests in Web Development
