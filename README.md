@@ -1,13 +1,16 @@
 <!-- About Me -->
 # 👋 Hi there, I'm `Vicky Milioudi`
+
 ## 👩🏽‍💻 About Me
 * 🎓 Msc Electrical & Computer Engineering student at DUTH
 * 🔎 Main interests in Web Development
-* 🌱 I’m currently learning Databases
+* 🌱 I’m currently learning mySQL
+* 💻 I'm currently working on [`Database Project`](https://github.com/vicky-milioudi/College-Projects/tree/main/Databases)
 * 🐣 I’m a ~~newbie~~ in coding
-* 🌍 Enthusiastic for science
+* 🌍 Enthusiastic for science and technology
 * 🎲 Enjoying  board games
-* 🎥 Love documentaries, movies & series  
+* 🎥 Love documentaries, movies & series
+  
 <h2 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
