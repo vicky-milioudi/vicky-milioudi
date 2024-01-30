@@ -8,8 +8,14 @@
 * 💻 I'm currently working on [`Database Project`](https://github.com/vicky-milioudi/College-Projects/tree/main/Databases)
 * 🐣 I’m a ~~newbie~~ in coding
 * 🌍 Enthusiastic for science and technology
-* 🎲 Enjoying  board games
-* 🎥 Love documentaries, movies & series
+* 🍿 Love documentaries, movies & series 
+* 🎲 Enjoying board games
+
+## 🌞 Fun Facts About Me
+ * 🌌 Learning is my passion
+ * ☕ Coffee is my fuel
+ * 🔋 YouTube and podcasts: my break essentials
+ * 🐾 Cats and dogs hold a special place in my heart, especially my Luna🐈‍⬛
   
 <h2 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
