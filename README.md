@@ -4,7 +4,7 @@
 * 🎓 Msc Electrical & Computer Engineering student at DUTH
 * 🔎 Main interests in Web Development
 * 🌱 I’m currently learning mySQL
-* 💻 I'm currently working on [`Database Project`](https://github.com/vicky-milioudi/College-Projects/tree/main/Databases)
+* 💻 I'm currently working on [`Database Project`](https://github.com/vicky-milioudi/University-Projects/tree/main/Databases%202023-2024)
 * 🐣 I’m a ~~newbie~~ in coding
 * 🌍 Enthusiastic for science and technology
 * 🍿 Love documentaries, movies & series 
