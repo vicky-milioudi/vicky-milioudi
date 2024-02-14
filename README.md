@@ -14,7 +14,7 @@
  * 🌌 Learning is my passion
  * ☕ Coffee is my fuel
  * 🔋 YouTube and podcasts: my break essentials
- * 🐾 Cats and dogs hold a special place in my heart, especially my Luna🐈‍⬛
+ * 💜 Cats and dogs hold a special place in my heart, especially my Luna🐈‍⬛
   
 <h2 align="left">⚙️ Languages and Tools:</h3>
 <p align="left"> 
