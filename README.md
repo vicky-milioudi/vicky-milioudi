@@ -2,7 +2,7 @@
 
 ## 👩🏽‍💻 About Me
 * 🎓 Msc Electrical & Computer Engineering student at DUTH
-* 💻 I'm currently working on [`Database Project`](https://github.com/vicky-milioudi/University-Projects/tree/main/Databases%202023-2024)
+* 💻 I'm currently working on [`Embedded Systems Design Project`](https://github.com/vicky-milioudi/Duth-University-Projects/tree/main/Embedded%20Systems%20Design%202024-2025)
 * 🐣 I’m a ~~newbie~~ in coding
 * 🌍 Enthusiastic for science and technology
 * 🍿 Love documentaries, movies & series 
